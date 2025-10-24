@@ -15,7 +15,10 @@
         "vacuum_clean_point_predefined": "Σημεία",
         "vacuum_clean_zone": "Σκούπισμα σε ζώνη",
         "vacuum_clean_zone_predefined": "Λίστα ζωνών καθαρισμού",
-        "vacuum_follow_path": "Διαδρομή"
+        "vacuum_follow_path": "Διαδρομή",
+        "setup_zone": "Συντεταγμένες ζώνης",
+        "setup_point": "Συντεταγμένες σημείου",
+        "setup_outline": "Συντεταγμένες περιμέτρου"
     },
     "validation": {
         "preset": {
@@ -142,6 +145,7 @@
                 "paused": "Σε παύση",
                 "spot cleaning": "Καθαρισμός σημείου",
                 "error": "Σφάλμα",
+                "sleeping": "Σε αδράνεια",
                 "shutting down": "Γίνεται τερματισμός",
                 "updating": "Γίνεται αναβάθμιση",
                 "docking": "Σύνδεση στη βάση",
@@ -164,7 +168,8 @@
                 "medium": "Μέτριο",
                 "turbo": "Τούρμπο",
                 "auto": "Αυτόματο",
-                "gentle": "Ήπιο"
+                "gentle": "Ήπιο",
+                "strong": "Ισχυρό"
             }
         },
         "sensor_dirty_left": {
@@ -185,8 +190,14 @@
         "cleaned_area": {
             "label": "Έκταση που καθαρίστηκε"
         },
+        "total_cleaned_area": {
+            "label": "Συνολική έκταση που καθαρίστηκε"
+        },
         "cleaning_time": {
             "label": "Χρόνος καθαρισμού"
+        },
+        "total_cleaning_time": {
+            "label": "Συνολικός χρόνος καθαρισμού"
         },
         "mop_left": {
             "label": "Συντήρηση σφουγγαρίστρας"
@@ -204,6 +215,12 @@
                 "true": "Ναι",
                 "false": "Όχι"
             }
+        },
+        "water_volume": {
+            "label": "Ποσότητα νερού"
+        },
+        "mop_pad_humidity": {
+            "label": "Υγρασία σφουγγαρίστρας"
         }
     },
     "icon": {
@@ -246,6 +263,9 @@
             "config_set_failed": "Απέτυχε η ενημέρωση των ρυθμίσεων.",
             "generate_rooms_config": "Δημιουργία παραμέτρων δωματίων",
             "copy_service_call": "Αντιγραφή κλήσης υπηρεσίας"
+        },
+        "alerts": {
+            "set_static_config": "Θα πρέπει να χρησιμοποιήσεις αυτή τη λειτουργία μόνο αν θέλεις να προσαρμόσεις χειροκίνητα μια αυτόματα δημιουργημένη ρύθμιση.\nΣυνέχεια;"
         }
     }
 }
