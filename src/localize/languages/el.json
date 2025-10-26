@@ -176,7 +176,7 @@
               "sweeping": "Σκούπισμα",
               "mopping": "Σφουγγάρισμα",
               "sweeping_and_mopping": "Σκούπισμα και σφουγγάρισμα",
-              "mopping_after_sweeping": "Σγουγγάρισμα μετά το σκούπισμα"
+              "mopping_after_sweeping": "Σφουγγάρισμα μετά το σκούπισμα"
             }
         },
         "cleaning_route": {
@@ -244,7 +244,12 @@
             "label": "Συντήρηση σφουγγαρίστρας"
         },
         "mop_pad_humidity": {
-            "label": "Υγρασία σφουγγαρίστρας"
+            "label": "Υγρασία σφουγγαρίστρας",
+            "value":{
+                "slightly_dry": "Ήπια",
+                "moist": "Μεσαία",
+                "wet": "Υγρή",
+            }
         },
         "tight_mopping": {
             "label": "Πυκνό σφουγγάρισμα"
