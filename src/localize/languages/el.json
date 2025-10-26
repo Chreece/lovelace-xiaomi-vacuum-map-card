@@ -130,6 +130,86 @@
         "invalid_calibration": "Λάθος βαθμονόμηση, παρακαλώ ελέγξτε τις ρυθμίσεις σας"
     },
     "tile": {
+        "auto_empty_mode": {
+            "label": "Αυτόματο άδειασμα"
+            "value": {
+              "Off": "Ανενεργό",
+              "Standard": "Κανονικό",
+              "High frequency": "Υψηλή συχνότητα",
+              "Low frequency": "Χαμηλή συχνότητα"
+            }
+        },
+        "battery_level": {
+            "label": "Μπαταρία"
+        },
+        "bin_full": {
+            "label": "Κάδος γεμάτος",
+            "value": {
+                "true": "Ναι",
+                "false": "Όχι"
+            }
+        },
+        "bin_present": {
+            "label": "Κάδος παρών",
+            "value": {
+                "true": "Ναι",
+                "false": "Όχι"
+            }
+        },
+        "cleaned_area": {
+            "label": "Έκταση που καθαρίστηκε"
+        },
+        "cleangenius": {
+            "label": "Clean Genius",
+            "value": {
+              "Off": "Ανενεργό",
+              "Routine cleaning": "Καθαρισμός ρουτίνας",
+              "Deep cleaning": "Βαθύς καθαρισμός"
+            }
+        },
+        "cleaning_count": {
+            "label": "Αριθμός σκουπισμάτων"
+        },
+        "cleaning_mode": {
+            "label": "Τύπος καθαρισμού",
+            "value": {
+              "Sweeping": "Σκούπισμα",
+              "Mopping": "Σφουγγάρισμα",
+              "Sweeping and mopping": "Σκούπισμα και σφουγγάρισμα",
+              "Mopping after sweeping": "Σγουγγάρισμα μετά το σκούπισμα"
+            }
+        },
+        "cleaning_route": {
+            "label": "Διαδρομή καθαρισμού",
+            "value": {
+              "Quick": "Γρήγορη",
+              "Standard": "Κανονική"
+            }
+        },
+        "cleaning_time": {
+            "label": "Χρόνος καθαρισμού"
+        },
+        "fan_speed": {
+            "label": "Ταχύτητα ανεμιστήρα",
+            "value": {
+                "silent": "Αθόρυβο",
+                "standard": "Τυπικό",
+                "medium": "Μέτριο",
+                "turbo": "Τούρμπο",
+                "auto": "Αυτόματο",
+                "gentle": "Ήπιο",
+                "strong": "Ισχυρό"
+            }
+        },
+        "filter_left": {
+            "label": "Συντήρηση φίλτρου"
+        },
+        "sensor_dirty_left": {
+            "label": "Συντήρηση αισθητήρων"
+        },
+        "side_brush_left": {
+            "label": "Συντήρηση πλαϊνής βούρτσας"
+        },
         "status": {
             "label": "Κατάσταση",
             "value": {
@@ -157,70 +237,29 @@
                 "device offline": "Συσκευή εκτός δικτύου"
             }
         },
-        "battery_level": {
-            "label": "Μπαταρία"
-        },
-        "fan_speed": {
-            "label": "Ταχύτητα ανεμιστήρα",
-            "value": {
-                "silent": "Αθόρυβο",
-                "standard": "Τυπικό",
-                "medium": "Μέτριο",
-                "turbo": "Τούρμπο",
-                "auto": "Αυτόματο",
-                "gentle": "Ήπιο",
-                "strong": "Ισχυρό"
-            }
-        },
-        "sensor_dirty_left": {
-            "label": "Συντήρηση αισθητήρων"
-        },
-        "filter_left": {
-            "label": "Συντήρηση φίλτρου"
-        },
         "main_brush_left": {
             "label": "Συντήρηση κύριας βούρτσας"
-        },
-        "side_brush_left": {
-            "label": "Συντήρηση πλαϊνής βούρτσας"
-        },
-        "cleaning_count": {
-            "label": "Αριθμός σκουπισμάτων"
-        },
-        "cleaned_area": {
-            "label": "Έκταση που καθαρίστηκε"
-        },
-        "total_cleaned_area": {
-            "label": "Συνολική έκταση που καθαρίστηκε"
-        },
-        "cleaning_time": {
-            "label": "Χρόνος καθαρισμού"
-        },
-        "total_cleaning_time": {
-            "label": "Συνολικός χρόνος καθαρισμού"
         },
         "mop_left": {
             "label": "Συντήρηση σφουγγαρίστρας"
         },
-        "bin_full": {
-            "label": "Κάδος γεμάτος",
-            "value": {
-                "true": "Ναι",
-                "false": "Όχι"
-            }
+        "mop_pad_humidity": {
+            "label": "Υγρασία σφουγγαρίστρας"
         },
-        "bin_present": {
-            "label": "Κάδος παρών",
-            "value": {
-                "true": "Ναι",
-                "false": "Όχι"
-            }
+        "tight_mopping": {
+            "label": "Πυκνό σφουγγάρισμα"
+        },
+        "total_cleaning_time": {
+            "label": "Συνολικός χρόνος καθαρισμού"
+        },
+        "total_cleaned_area": {
+            "label": "Συνολική έκταση που καθαρίστηκε"
         },
         "water_volume": {
             "label": "Ποσότητα νερού"
         },
-        "mop_pad_humidity": {
-            "label": "Υγρασία σφουγγαρίστρας"
+        "wetness_level": {
+            "label": "Επίπεδο υγρασίας"
         }
     },
     "icon": {
