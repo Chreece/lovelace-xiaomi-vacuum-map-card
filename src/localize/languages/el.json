@@ -133,10 +133,10 @@
         "auto_empty_mode": {
             "label": "Αυτόματο άδειασμα",
             "value": {
-              "Off": "Ανενεργό",
-              "Standard": "Κανονικό",
-              "High frequency": "Υψηλή συχνότητα",
-              "Low frequency": "Χαμηλή συχνότητα"
+              "off": "Ανενεργό",
+              "standard": "Κανονικό",
+              "high_frequency": "Υψηλή συχνότητα",
+              "low_frequency": "Χαμηλή συχνότητα"
             }
         },
         "battery_level": {
@@ -162,9 +162,9 @@
         "cleangenius": {
             "label": "Clean Genius",
             "value": {
-              "Off": "Ανενεργό",
-              "Routine cleaning": "Καθαρισμός ρουτίνας",
-              "Deep cleaning": "Βαθύς καθαρισμός"
+              "off": "Ανενεργό",
+              "routine_cleaning": "Καθαρισμός ρουτίνας",
+              "deep_cleaning": "Βαθύς καθαρισμός"
             }
         },
         "cleaning_count": {
@@ -173,17 +173,17 @@
         "cleaning_mode": {
             "label": "Τύπος καθαρισμού",
             "value": {
-              "Sweeping": "Σκούπισμα",
-              "Mopping": "Σφουγγάρισμα",
-              "Sweeping and mopping": "Σκούπισμα και σφουγγάρισμα",
-              "Mopping after sweeping": "Σγουγγάρισμα μετά το σκούπισμα"
+              "sweeping": "Σκούπισμα",
+              "mopping": "Σφουγγάρισμα",
+              "sweeping_and_mopping": "Σκούπισμα και σφουγγάρισμα",
+              "mopping_after_sweeping": "Σγουγγάρισμα μετά το σκούπισμα"
             }
         },
         "cleaning_route": {
             "label": "Διαδρομή καθαρισμού",
             "value": {
-              "Quick": "Γρήγορη",
-              "Standard": "Κανονική"
+              "quick": "Γρήγορη",
+              "standard": "Κανονική"
             }
         },
         "cleaning_time": {
@@ -214,27 +214,27 @@
             "label": "Κατάσταση",
             "value": {
                 "starting": "Γίνεται εκκίνηση",
-                "charger disconnected": "Αποσυνδέθηκε από τη φόρτιση",
+                "charger_disconnected": "Αποσυνδέθηκε από τη φόρτιση",
                 "idle": "Σε αδράνεια",
-                "remote control active": "Χειροκίνητος έλεγχος ενεργός",
+                "remote_control_active": "Χειροκίνητος έλεγχος ενεργός",
                 "cleaning": "Γίνεται καθαρισμός",
-                "returning home": "Επιστροφή στη βάση",
-                "manual mode": "Χειροκίνητη λειτουργία",
+                "returning_home": "Επιστροφή στη βάση",
+                "manual_mode": "Χειροκίνητη λειτουργία",
                 "charging": "Σε φόρτιση",
-                "charging problem": "Πρόβλημα φόρτισης",
+                "charging_problem": "Πρόβλημα φόρτισης",
                 "paused": "Σε παύση",
-                "spot cleaning": "Καθαρισμός σημείου",
+                "spot_cleaning": "Καθαρισμός σημείου",
                 "error": "Σφάλμα",
                 "sleeping": "Σε αδράνεια",
-                "shutting down": "Γίνεται τερματισμός",
+                "shutting_down": "Γίνεται τερματισμός",
                 "updating": "Γίνεται αναβάθμιση",
                 "docking": "Σύνδεση στη βάση",
-                "going to target": "Πορεία προς προορισμό",
-                "zoned cleaning": "Καθαρισμός ζώνης",
-                "segment cleaning": "Καθαρισμός τμήματος",
-                "emptying the bin": "Άδειασμα κάδου",
-                "charging complete": "Φόρτιση πλήρης",
-                "device offline": "Συσκευή εκτός δικτύου"
+                "going_to_target": "Πορεία προς προορισμό",
+                "zoned_cleaning": "Καθαρισμός ζώνης",
+                "segment_cleaning": "Καθαρισμός τμήματος",
+                "emptying_the_bin": "Άδειασμα κάδου",
+                "charging_complete": "Φόρτιση πλήρης",
+                "device_offline": "Συσκευή εκτός δικτύου"
             }
         },
         "main_brush_left": {
