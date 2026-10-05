@@ -1,3 +1,10 @@
+<!-- ko-fi-support -->
+<p align="center">
+  <a href="https://ko-fi.com/chreece">
+    <img src="https://raw.githubusercontent.com/Chreece/pir2ha/main/.github/ko-fi-banner.svg" alt="Support Chreece on Ko-fi" width="600">
+  </a>
+</p>
+
 [![HACS Default][hacs_shield]][hacs]
 [![GitHub Latest Release][releases_shield]][latest_release]
 [![GitHub All Releases][downloads_total_shield]][releases]
